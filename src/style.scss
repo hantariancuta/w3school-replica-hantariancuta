@@ -6,3 +6,18 @@
   --color-seashel: #f1f1f1;
   --color-silver: #ccc;
 }
+
+html, body {
+  height: 100%;
+
+  * {
+  box-sizing: border-box;
+  }
+}
+
+body {
+  display: grid;
+  grid-template-columns: 220px 1fr;
+  grid-template-rows: 44px 1fr 44px;
+  font-family: Arial, Helvetica, sans-serif; 
+}
