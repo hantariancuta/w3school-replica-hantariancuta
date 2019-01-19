@@ -8,12 +8,17 @@
 }
 
 html, body {
-  height: 100%;
+  
 
   * {
   box-sizing: border-box;
   }
 }
+
+div { 
+  height: 100%
+}
+
 
 body {
   display: grid;
