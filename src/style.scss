@@ -21,3 +21,8 @@ body {
   grid-template-rows: 44px 1fr 44px;
   font-family: Arial, Helvetica, sans-serif; 
 }
+
+header,
+footer {
+  background-color: var(--color-scorpion);
+}
