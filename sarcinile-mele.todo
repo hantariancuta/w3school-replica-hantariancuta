@@ -1,7 +1,7 @@
     # Agenda
 
-☐ See our website online
-     ☐ use "npm run deploy" which you can find in the readme file of pug starter
+✔ See our website online @done(19-02-02 11:35)
+     ✔ use "npm run deploy" which you can find in the readme file of pug starter @done(19-02-02 11:35)
 ☐ Identify repeatable areas and
     ☐ create a template for the layout
     ☐ extract header, footer and nav into components
