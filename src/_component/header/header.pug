@@ -7,6 +7,10 @@
   ];
 header
     each navigation in topNavigationList
+    //- check if the navigation label is the same as landingPage
+    if navigation.label == landingPage
+     a.current(href=navigation.link)=navigation.label
+     a(href=navigation.link)=navigation.label
      a(href=navigation.link)=navigation.label
     //- div=landingPage 
     //- a.current(href="/") Acasa
