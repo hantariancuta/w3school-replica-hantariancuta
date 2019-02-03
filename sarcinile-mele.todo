@@ -2,11 +2,11 @@
 
 ✔ See our website online @done(19-02-02 11:35)
      ✔ use "npm run deploy" which you can find in the readme file of pug starter @done(19-02-02 11:35)
-☐ Identify repeatable areas and
+✔ Identify repeatable areas and @done(19-02-03 13:10)
     ✔ create a template for the layout @done(19-02-02 12:55)
     ✔ extract header, footer and nav into components @done(19-02-02 13:22)
-☐ Use JavaScript variables to pass data through pug files
-☐ Refactor header using "each" loop
+✔ Use JavaScript variables to pass data through pug files @done(19-02-03 13:10)
+✔ Refactor header using "each" loop @done(19-02-03 13:10)
 ☐ Refactor nav using "each" loop
 ☐ Create multiple pages
     ☐ home
