@@ -7,7 +7,7 @@
     ✔ extract header, footer and nav into components @done(19-02-02 13:22)
 ✔ Use JavaScript variables to pass data through pug files @done(19-02-03 13:10)
 ✔ Refactor header using "each" loop @done(19-02-03 13:10)
-☐ Refactor nav using "each" loop
+✔ Refactor nav using "each" loop @done(19-02-03 20:55)
 ☐ Create multiple pages
     ☐ home
      ☐ html
