@@ -6,6 +6,8 @@
       {label: 'JavaScript', link: '/javascript'},
   ];
 header
+    each navigation in topNavigationList
+     a(href=navigation.link)=navigation.label
     //- div=landingPage 
     //- a.current(href="/") Acasa
     //- a(href="/studiu-html") Studiu HTML
